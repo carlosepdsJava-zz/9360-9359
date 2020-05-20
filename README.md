@@ -3,7 +3,7 @@
 
 
 Method: POST
-HeaderParameter: Content-Type=application/json
+Header: Content-Type=application/json
 Body:
 
 {

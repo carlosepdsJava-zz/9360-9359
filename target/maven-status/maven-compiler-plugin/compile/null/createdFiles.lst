@@ -1,0 +1,7 @@
+br/com/carlosepdsJava/login/okta/AccessLogin.class
+br/com/carlosepdsJava/login/okta/LoginResponse.class
+br/com/carlosepdsJava/login/okta/LoginResource.class
+br/com/carlosepdsJava/login/loggin/LoggingFilter.class
+br/com/carlosepdsJava/login/exceptions/BeanValConstrainViolationExceptionMapper.class
+br/com/carlosepdsJava/login/okta/LoginService.class
+br/com/carlosepdsJava/login/exceptions/ErrorMessage.class

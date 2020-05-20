@@ -3,10 +3,9 @@
 
 run: mvn quarkus:dev
 
-Method: POST
-Header: Content-Type=application/json
-Body:
-
+- Method: POST
+- Header: Content-Type=application/json
+- Body:
 {
   "userName": "teste@teste.com.br",
   "password": "B@lalaik@123"
